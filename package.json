@@ -1,0 +1,36 @@
+{
+  "name": "dark-magician-girl-color-theme",
+  "displayName": "Dark Magician Girl Color Theme",
+  "description": "Color theme inspired by the Dark Magic Girl theme on monkeytype.com. Original creator (AbstractUmbra) deleted it, so this is a reupload with some color changes.",
+  "version": "0.0.1",
+  "publisher": "Nazenano",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/Nazenano/dark-magician-girl-color-theme"
+  },
+  "keywords": [
+	"theme",
+	"dark theme",
+	"color theme",
+	"dark",
+	"magic",
+	"magician",
+	"girl",
+	"dark magician girl"
+  ]
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Magician Girl Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Magician Girl Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
