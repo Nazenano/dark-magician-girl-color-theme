@@ -1,12 +1,14 @@
 # dark-magician-girl-color-theme README
 
-## Info
+## Information
 
 This is a color theme inspired by the Dark Magic Girl theme on monkeytype.com.
-Original creator (AbstractUmbra) deleted it, so this is a reupload with some color changes.
+Original creator (*AbstractUmbra*) deleted it, so this is a reupload with some color changes.
+
+![ブラック・マジシャン・ガール](images/DarkMagiGirl.gif)
 
 ## For more information
 
-* [Open the github repository here!](https://github.com/Nazenano/dark-magician-girl-color-theme)
+* [Github repository](https://github.com/Nazenano/dark-magician-girl-color-theme)
 
 **Enjoy!**
