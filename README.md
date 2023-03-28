@@ -1,8 +1,8 @@
 # dark-magician-girl-color-theme README
 
-## Working with Markdown
+## Color Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a color theme inspired by the Dark Magic Girl theme on monkeytype.com. Original creator (AbstractUmbra) deleted it, so this is a reupload with some color changes.
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
