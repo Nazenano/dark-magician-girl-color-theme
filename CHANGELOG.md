@@ -1,9 +1,13 @@
-# Change Log
+# Version 1.0.3
 
-All notable changes to the "dark-magician-girl-color-theme" extension will be documented in this file.
+- Styling & improvements to Readme
+- Changelog
+- Search keywords
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+# Version 1.0.2
 
-## [Unreleased]
+- Support for older versions of vscode
 
-- Initial release
+# Version 1.0.1
+
+- Color changes & adjustments
