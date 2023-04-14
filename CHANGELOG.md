@@ -1,3 +1,7 @@
+# Version 1.0.4
+
+- Adjustments
+
 # Version 1.0.3
 
 - Styling & improvements to Readme

@@ -2,7 +2,7 @@
     <a href="https://yugioh.fandom.com/wiki/Dark_Magician_Girl"><img alt="ブラック・マジシャン・ガール" src="images/dark-magician-girl.gif"/></a>
 </div>
 
-<h1 align="center" style="margin-top: 0px;">Dark Magician Girl Color Theme</h1>
+<h1 align="center" style="margin-top: 0px; margin-bottom: 5px">Dark Magician Girl Color Theme</h1>
 
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=Nazenano.dark-magician-girl-color-theme&ssr=false#version-history">
@@ -14,6 +14,7 @@
     <a href="https://github.com/Nazenano/dark-magician-girl-color-theme">
         <img alt="github updated at" title="github updated at" src="https://custom-icon-badges.demolab.com/github/last-commit/Nazenano/dark-magician-girl-color-theme?&label=Updated&color=ff7a9e&logo=file-diff&logoColor=ff7a9e&style=for-the-badge&labelColor=091f2c"/></a> 
 </div>
+<br/>
 
 ## Preview
 
