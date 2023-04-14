@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=Nazenano.dark-magician-girl-color-theme">
+    <a href="https://marketplace.visualstudio.com/items?itemName=Nazenano.dark-magician-girl-color-theme&ssr=false#version-history">
         <img alt="marketplace version" title="current marketplace version" src="https://custom-icon-badges.demolab.com/vscode-marketplace/v/Nazenano.dark-magician-girl-color-theme?&label=Version&color=ff7a9e&logo=versions&logoColor=ff7a9e&style=for-the-badge&labelColor=091f2c"/>
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=Nazenano.dark-magician-girl-color-theme">
